@@ -2,7 +2,7 @@
 
 This repository contains Jupyter notebooks implementing Machine Learning algorithms to solve different problems. 
 
-The notebooks use Scikit-learn (on top of Python 3.6.9). 
+The notebooks use Scikit-learn and Python 3.6.9. 
 
 ### Table of contents
 
